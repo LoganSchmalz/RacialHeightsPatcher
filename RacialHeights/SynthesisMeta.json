@@ -1,8 +1,8 @@
 {
   "Nickname": "RacialHeights",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Patches race heights",
+  "LongDescription": "Patches race heights to fix conflicts between mods that change heights like FK's Diverse Racial Skeletons/Racial Body Morphs and other mods that edit races like Aetherius.",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": [

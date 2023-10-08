@@ -33,8 +33,10 @@ namespace RacialHeights
         {
             string config_file = Settings.config_file switch
             {
-                Config.FKsDiverseMorrowind => "morrowind_heights.json",
+                Config.FKsDiverseRacialSkeletonsMorrowind => "morrowind_heights.json",
                 Config.RacialBodyMorphs => "rbm_heights.json",
+                Config.RacialBodyMorphsExtreme => "rbm_extreme.json",
+                Config.RacialBodyMorphsSubtle => "rbm_subtle.json",
                 Config.Custom => "custom_heights.json",
                 Config.Vanilla => "vanilla.json",
                 _ => throw new NotImplementedException()

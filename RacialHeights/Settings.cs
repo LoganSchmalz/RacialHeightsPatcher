@@ -2,13 +2,15 @@ namespace RacialHeights
 {
     public enum Config
     {
-        FKsDiverseMorrowind,
+        FKsDiverseRacialSkeletonsMorrowind,
         RacialBodyMorphs,
+        RacialBodyMorphsExtreme,
+        RacialBodyMorphsSubtle,
         Vanilla,
         Custom
     }
     public class Settings
     {
-        public Config config_file = Config.FKsDiverseMorrowind;
+        public Config config_file = Config.FKsDiverseRacialSkeletonsMorrowind;
     }
 }
