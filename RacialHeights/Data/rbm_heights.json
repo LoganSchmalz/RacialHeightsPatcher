@@ -1,0 +1,114 @@
+{
+  "ArgonianRace": {
+    "MaleHeight": 1.06,
+    "FemaleHeight": 1.045
+  },
+  "BretonRace": {
+    "MaleHeight": 0.985,
+    "FemaleHeight": 0.95
+  },
+  "DarkElfRace": {
+    "MaleHeight": 1.03,
+    "FemaleHeight": 1.015
+  },
+  "HighElfRace": {
+    "MaleHeight": 1.16,
+    "FemaleHeight": 1.12
+  },
+  "ImperialRace": {
+    "MaleHeight": 1.015,
+    "FemaleHeight": 0.985
+  },
+  "KhajiitRace": {
+    "MaleHeight": 0.98,
+    "FemaleHeight": 0.945
+  },
+  "NordRace": {
+    "MaleHeight": 1.08,
+    "FemaleHeight": 1.06
+  },
+  "OrcRace": {
+    "MaleHeight": 1.1,
+    "FemaleHeight": 1.08
+  },
+  "RedguardRace": {
+    "MaleHeight": 1.045,
+    "FemaleHeight": 1.03
+  },
+  "WoodElfRace": {
+    "MaleHeight": 0.92,
+    "FemaleHeight": 0.94
+  },
+  "ElderRace": {
+    "MaleHeight": 1.0,
+    "FemaleHeight": 1.0
+  },
+  "InvisibleRace": {
+    "MaleHeight": 1.1,
+    "FemaleHeight": 1.1
+  },
+  "NordRaceAstrid": {
+    "MaleHeight": 1.08,
+    "FemaleHeight": 1.08
+  },
+  "NordRaceVampire": {
+    "MaleHeight": 1.08,
+    "FemaleHeight": 1.06
+  },
+  "ArgonianRaceVampire": {
+    "MaleHeight": 1.06,
+    "FemaleHeight": 1.045
+  },
+  "BretonRaceVampire": {
+    "MaleHeight": 0.985,
+    "FemaleHeight": 0.95
+  },
+  "DarkElfRaceVampire": {
+    "MaleHeight": 1.03,
+    "FemaleHeight": 1.015
+  },
+  "HighElfRaceVampire": {
+    "MaleHeight": 1.16,
+    "FemaleHeight": 1.12
+  },
+  "ImperialRaceVampire": {
+    "MaleHeight": 1.015,
+    "FemaleHeight": 0.985
+  },
+  "KhajiitRaceVampire": {
+    "MaleHeight": 0.98,
+    "FemaleHeight": 0.945
+  },
+  "RedguardRaceVampire": {
+    "MaleHeight": 1.045,
+    "FemaleHeight": 1.03
+  },
+  "WoodElfRaceVampire": {
+    "MaleHeight": 0.92,
+    "FemaleHeight": 0.94
+  },
+  "DA13AfflictedRace": {
+    "MaleHeight": 0.985,
+    "FemaleHeight": 0.95
+  },
+  "OrcRaceVampire": {
+    "MaleHeight": 1.1,
+    "FemaleHeight": 1.08
+  },
+  "ElderRaceVampire": {
+    "MaleHeight": 1.0,
+    "FemaleHeight": 1.0
+  },
+  "SnowElfRace": {
+    "MaleHeight": 1.16,
+    "FemaleHeight": 1.12
+  },
+  "DLC1NordRace": {
+    "MaleHeight": 1.08,
+    "FemaleHeight": 1.045
+  },
+  "DLC2MiraakRace": {
+    "MaleHeight": 1.1,
+    "FemaleHeight": 1.1
+  }
+}
